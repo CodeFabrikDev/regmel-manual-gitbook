@@ -4,7 +4,7 @@ O primeiro passo para utilizar o sistema, é acessar sua conta, para isso, é ne
 
 Para isso, clique em `Entrar com Gov.br`
 
-<figure><img src="../.gitbook/assets/Onboarding.png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt="" width="216"><figcaption></figcaption></figure>
 
 Informe seu 'CPF' e clique em `Continuar`
 
@@ -16,25 +16,25 @@ Informe sua 'Senha' de acesso e clique em `Entrar`
 
 ### Primeiro acesso
 
-Caso seja o seu primeiro acesso no sistema, uma página de escolha de tipo de programa será exibida com as seguintes opções:
+Caso seja o seu primeiro acesso no sistema, uma tela de escolha de tipo de programa será exibida com as seguintes opções:
 
 * Minha Casa Minha Vida: Para usuários que aderirem à modalidade financiada.&#x20;
 * Regularização e Melhorias: Para usuários que aderirem à modalidade subsidiada.
 
-Escolha 'Regularização e Melhorias' e clique em `Confirmar`
+Escolha 'Regularização e Melhorias' e clique em `Continuar`
 
-<figure><img src="../.gitbook/assets/Vamos começar_ (1).png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt="" width="213"><figcaption></figcaption></figure>
 
-Então, uma página de escolha de tipo de usuário será exibida com as seguintes opções:
+Então, uma tela de escolha de tipo de usuário será exibida com as seguintes opções:
 
 * **Sou morador(a):** Para usuários que gostariam de realizar uma melhoria habitacional em sua residência.
 * **Sou agente promotor:** Para usuários que gostariam de realizar obras de melhoria habitacional.
 
 Escolha 'Agente promotor' e clique em `Confirmar`
 
-<figure><img src="../.gitbook/assets/Vamos começar_ (2).png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt="" width="213"><figcaption></figcaption></figure>
 
-Na página exibida, preencha os campos de informações pessoais solicitadas pelo sistema:
+Na tela exibida, preencha os campos de informações pessoais solicitadas pelo sistema:
 
 * Nome
 * CPF
@@ -43,11 +43,16 @@ Na página exibida, preencha os campos de informações pessoais solicitadas pel
 
 Clique em `Avançar`
 
-<figure><img src="../.gitbook/assets/Informações pessoais.png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt="" width="211"><figcaption></figcaption></figure>
 
-Na segunda etapa exibida, preencha os campos de informações complementares solicitadas pelo sistema:
+Na segunda tela exibida, preencha CEP, aguarde o preenchimento automático pelo CEP, e complemente com os campos que faltarem.
 
-* Sobre você (Caixa de exto)
+<figure><img src="../.gitbook/assets/image (8).png" alt="" width="214"><figcaption></figcaption></figure>
+
+Ao confirmar, é direcionado preencher os campos de informações complementares solicitadas pelo sistema:
+
+* Empresa
+* Sobre você (Caixa de texto)
 * Portfólio (Opcional)
 * Foto de perfil (inserir arquivo de imagem)
 * Sexo
@@ -58,6 +63,6 @@ Na segunda etapa exibida, preencha os campos de informações complementares sol
 * Renda familiar mensal
 * Cor ou raça
 
-Clique em `Confirmar`
+Clique em `Confirmar` e será levado para a tela inicial, com os botões desabilitados por não ter sido aprovado pelo administrador do agente promotor.  &#x20;
 
-<figure><img src="../.gitbook/assets/Informações pessoais (5).png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12).png" alt="" width="213"><figcaption></figcaption></figure>

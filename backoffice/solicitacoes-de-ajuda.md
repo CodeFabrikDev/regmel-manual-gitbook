@@ -4,7 +4,7 @@
 
 Para visualizar a lista de solicitações de ajuda registradas no sistema, basta acessar o menu lateral e clicar em `Solicitações de ajuda` e a página com a lista será exibida.
 
-<figure><img src="../.gitbook/assets/Solicitações de ajuda (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Visualizar solicitação de ajuda
 
@@ -14,4 +14,4 @@ Modal de bate-papo será exibido, usuário do backoffice tentará resolver situa
 
 Após o problema ser resolvido, clique em `Resolver`
 
-<figure><img src="../.gitbook/assets/Solicitação de ajuda (2).png" alt="" width="321"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt="" width="280"><figcaption></figcaption></figure>

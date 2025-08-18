@@ -10,8 +10,9 @@
 ## 🧱 PROMOTOR
 
 * [Acessar com GOV.BR](promotor/acessar-com-gov.br.md)
+* [Gestão de agentes](promotor/gestao-de-agentes.md)
 * [Cadastrar demanda](promotor/cadastrar-demanda.md)
-* [Realizar vistoria](promotor/realizar-vistoria.md)
+* [Cadastrar vistoria](promotor/cadastrar-vistoria.md)
 * [Adicionar intervenções](promotor/adicionar-intervencoes.md)
 * [Confirmar projeto de melhoria](promotor/confirmar-projeto-de-melhoria.md)
 * [Cadastrar obra](promotor/cadastrar-obra.md)
@@ -21,9 +22,8 @@
 
 * [Acessar conta](backoffice/acessar-conta.md)
 * [Recuperar acesso](backoffice/recuperar-acesso.md)
-* [Controle de acesso](backoffice/controle-de-acesso/README.md)
-  * [Controle de usuários](backoffice/controle-de-acesso/controle-de-usuarios.md)
-  * [Controle de funções](backoffice/controle-de-acesso/controle-de-funcoes.md)
+* [Controle de acesso](backoffice/controle-de-acesso.md)
+* [Gerenciar agentes promotores](backoffice/gerenciar-agentes-promotores.md)
 * [Gerenciar profissionais](backoffice/gerenciar-profissionais.md)
 * [Controle de demandas](backoffice/controle-de-demandas.md)
 * [Solicitações de ajuda](backoffice/solicitacoes-de-ajuda.md)

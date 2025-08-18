@@ -4,8 +4,8 @@ Para que você possa acessar o backoffice, o administrador do mesmo terá que re
 
 Saiba mais em:
 
-{% content-ref url="controle-de-acesso/controle-de-usuarios.md" %}
-[controle-de-usuarios.md](controle-de-acesso/controle-de-usuarios.md)
+{% content-ref url="controle-de-acesso.md" %}
+[controle-de-acesso.md](controle-de-acesso.md)
 {% endcontent-ref %}
 
 Para efetuar o acesso, acesse a página de Login do Backoffice e preencha os campos solicitados pelo sistema
@@ -21,6 +21,4 @@ Caso não saiba ou tenha esquecido a senha:
 
 Após preencher os campos acima, clique em `Entrar`
 
-{% hint style="danger" %}
-Imagem: Em desenvolvimento
-{% endhint %}
+<figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>

@@ -4,36 +4,29 @@ Para realizar cadastrar uma obra, acesse a tela inicial&#x20;
 
 Clique em `Obra`
 
-<figure><img src="../.gitbook/assets/INICIO.png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (37).png" alt="" width="213"><figcaption></figcaption></figure>
 
-Na página exibida, selecione o item com status 'Cadastrar obra'
+Na tela exibida, selecione o item com status 'Esperando obra'
 
 Clique em `Cadastrar obra`
 
-<figure><img src="../.gitbook/assets/Obra (5).png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (38).png" alt="" width="213"><figcaption></figcaption></figure>
 
-Sistema exibe página inicial de cadastro de obra, para a primeira etapa, é necessário que o promotor esteja no local da obra para prosseguir.
+Sistema exibe tela inicial de cadastro de obra, para a primeira etapa, é necessário que o promotor esteja no local da obra para prosseguir.
 
 Clique em `Iniciar`
 
-<figure><img src="../.gitbook/assets/Profissional -  Cadastrar Projeto - aviso (1).png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (39).png" alt="" width="212"><figcaption></figcaption></figure>
 
-Na página exibida, preencha a confirmação de localização da obra:
+Na tela exibida, quando o marcador verde (localização do dispositivo) estiver dentro da distância permitida do marcador azul (endereço da demanda), clique no botão `confirmar`, que estará habilitado.
 
-* CEP
-* Logradouro
-* Estado
-* Cidade
+<figure><img src="../.gitbook/assets/image (40).png" alt="" width="214"><figcaption></figcaption></figure>
 
-Clique em `Confirmar`
-
-<figure><img src="../.gitbook/assets/Informações residencial (2).png" alt="" width="188"><figcaption></figcaption></figure>
-
-Na página exibida, leia atentamente as instruções mostradas
+Na tela exibida, leia atentamente as instruções mostradas
 
 Clique em `Continuar`
 
-<figure><img src="../.gitbook/assets/Cadastrar obra (2).png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (41).png" alt="" width="211"><figcaption></figcaption></figure>
 
 Na página exibida, tire e adicione fotos dos cômodos listados
 
@@ -45,27 +38,15 @@ Adicione as fotos tiradas do seu dispositivo seguindo as instruções da etapa a
 Caso tenha adicionado uma foto por engano, clique no ícone de remoção(X vermelho) da foto.
 {% endhint %}
 
-Clique em `Concluir`
+Clique em `Concluir` para finalizar a primeira etapa
 
-<div>
-
-<figure><img src="../.gitbook/assets/Adicionar fotos (5).png" alt="" width="188"><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/Fotos adicionadas (1).png" alt="" width="188"><figcaption></figcaption></figure>
-
-</div>
-
-Clique em `Avançar` para finalizar a primeira etapa
-
-<figure><img src="../.gitbook/assets/Fotos para o cadastro da obra finalizada. (1).png" alt="" width="188"><figcaption></figcaption></figure>
+<div><figure><img src="../.gitbook/assets/image (42).png" alt="" width="212"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Captura de tela 2025-08-18 120836.png" alt="" width="212"><figcaption></figcaption></figure></div>
 
 De volta á tela de etapas do cadastro, o sistema habilitará a segunda etapa, nesta, não é necessário estar no local da obra
 
 Clique em `Iniciar`
 
-<figure><img src="../.gitbook/assets/Cadastrar obra (Segunda etapa) (2).png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (44).png" alt="" width="212"><figcaption></figcaption></figure>
 
 Na página exibida, preencha os campos de cadastro de obra solicitados pelo sistema
 
@@ -75,9 +56,5 @@ Na página exibida, preencha os campos de cadastro de obra solicitados pelo sist
 
 Clique em `Cadastrar`
 
-<figure><img src="../.gitbook/assets/Cadastrar obra - Informações - (Segunda etapa) (1).png" alt="" width="188"><figcaption></figcaption></figure>
-
-Clique em `Inicio`
-
-<figure><img src="../.gitbook/assets/Cadastro finalizado! (5).png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (45).png" alt="" width="213"><figcaption></figcaption></figure>
 

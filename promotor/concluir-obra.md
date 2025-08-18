@@ -4,34 +4,27 @@ Para realizar cadastrar uma obra, acesse a tela inicial&#x20;
 
 Clique em `Obra`
 
-<figure><img src="../.gitbook/assets/INICIO.png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (46).png" alt="" width="213"><figcaption></figcaption></figure>
 
-Na página exibida, selecione o item com status 'Obra em andamento'
+Na página exibida, selecione o item com status 'Concluir obra'
 
-Clique em `Fazer conclusão da obra`
+Clique em `Concluir obra`
 
-<figure><img src="../.gitbook/assets/Obra (5).png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (47).png" alt="" width="213"><figcaption></figcaption></figure>
 
-Na página exibida, preencha a confirmação de localização da obra:
+Na tela exibida, quando o marcador verde (localização do dispositivo) estiver dentro da distância permitida do marcador azul (endereço da demanda), clique no botão `confirmar`, que estará habilitado.
 
-* CEP
-* Logradouro
-* Estado
-* Cidade
+<figure><img src="../.gitbook/assets/image (40).png" alt="" width="214"><figcaption></figcaption></figure>
 
-Clique em `Confirmar`
 
-<figure><img src="../.gitbook/assets/Informações residencial (2).png" alt="" width="188"><figcaption></figcaption></figure>
 
-Na página exibida, leia atentamente as instruções mostradas
+Na tela exibida, leia atentamente as instruções mostradas
 
 Clique em `Continuar`
 
-<figure><img src="../.gitbook/assets/Cadastrar obra (2).png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (41).png" alt="" width="211"><figcaption></figcaption></figure>
 
-Na página exibida, tire e adicione fotos dos cômodos listados
-
-Para adicionar foto de um cômodo, clique em `Adicionar fotos`
+Na página exibida, tire e adicione fotos dos cômodos listadosPara adicionar foto de um cômodo, clique em `Selecione fotos conclusão`     &#x20;
 
 Adicione as fotos tiradas do seu dispositivo seguindo as instruções da etapa anterior
 
@@ -39,24 +32,20 @@ Adicione as fotos tiradas do seu dispositivo seguindo as instruções da etapa a
 Caso tenha adicionado uma foto por engano, clique no ícone de remoção(X vermelho) da foto.
 {% endhint %}
 
+
+
+<div><figure><img src="../.gitbook/assets/image (48).png" alt="" width="213"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Captura de tela 2025-08-18 121749.png" alt="" width="213"><figcaption></figcaption></figure></div>
+
+
+
 Clique em `Concluir`
 
-<div>
+Na tela exibida, preencha a lista de soluções sustentáveis utilizados na obra e clique em confirmar
 
-<figure><img src="../.gitbook/assets/Fotos adicionadas (2).png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (49).png" alt="" width="213"><figcaption></figcaption></figure>
 
- 
-
-<figure><img src="../.gitbook/assets/Fotos adicionadas (3).png" alt="" width="188"><figcaption></figcaption></figure>
-
-</div>
-
-Na página exibida, preencha a pesquisa de satisfação
+Na tela exibida, preencha a pesquisa de satisfação
 
 Clique em `Enviar`
 
-<figure><img src="../.gitbook/assets/Pesquisa de satisfação (4).png" alt="" width="188"><figcaption></figcaption></figure>
-
-Clique em `Inicio`
-
-<figure><img src="../.gitbook/assets/Cadastro finalizado! (7).png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (50).png" alt="" width="213"><figcaption></figcaption></figure>
