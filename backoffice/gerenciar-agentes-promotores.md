@@ -4,7 +4,7 @@
 
 Para visualizar os agentes promotores cadastrados, basta acessar o menu lateral e clicar em `Agentes promotores` e a página com a lista será exibida.
 
-<figure><img src="../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (57).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### Adicionar agente promotor
 
@@ -25,7 +25,7 @@ Clique em `Adicionar`, o sistema mandará um link de cadastro de senha para o em
 
 Para visualizar os detalhes e informações de um agente promotor cadastrado, basta clicar no `ícone de detalhes (Usuário com uma lupa)` ao lado das informações do profissional na lista.
 
-<figure><img src="../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (51).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### Deletar agente promotor
 

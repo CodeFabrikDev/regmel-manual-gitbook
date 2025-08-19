@@ -4,7 +4,7 @@
 
 ## 🏘️ beneficiário
 
-* [Acessar com GOV.BR](beneficiario/acessar-com-gov.br.md)
+* [🟡 Acessar com GOV.BR](beneficiario/acessar-com-gov.br.md)
 * [Confirmar conclusão da obra](beneficiario/confirmar-conclusao-da-obra.md)
 
 ## 🧱 PROMOTOR

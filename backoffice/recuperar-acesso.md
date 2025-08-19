@@ -16,7 +16,7 @@ Caso não precise recuperar acesso:
 
 Para recuperar o acesso ao backoffice, você deverá acessar a página de Login do mesmo, e clicar em `Esqueci a senha`
 
-<figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (28).png" alt="" width="563"><figcaption></figcaption></figure>
 
 Uma página de recuperação de acesso será exibida, preencha o campo solicitado pelo sistema:
 
@@ -24,7 +24,7 @@ Uma página de recuperação de acesso será exibida, preencha o campo solicitad
 
 Clique em `Confirmar`
 
-<figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (29).png" alt="" width="563"><figcaption></figcaption></figure>
 
 Uma segunda página de recuperação será exibida e um código de confirmação será enviado para o email informado pelo usuário
 
@@ -36,7 +36,7 @@ Caso o usuário não tenha recebido nenhum código, o mesmo poderá clicar em <m
 
 Clique em `Confirmar`
 
-<figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (30).png" alt="" width="563"><figcaption></figcaption></figure>
 
 A ultima página de recuperação de acesso será exibida para o usuário
 

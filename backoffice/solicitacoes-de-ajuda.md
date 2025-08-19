@@ -4,7 +4,7 @@
 
 Para visualizar a lista de solicitações de ajuda registradas no sistema, basta acessar o menu lateral e clicar em `Solicitações de ajuda` e a página com a lista será exibida.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### Visualizar solicitação de ajuda
 

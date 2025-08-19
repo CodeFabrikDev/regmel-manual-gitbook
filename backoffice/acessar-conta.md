@@ -21,4 +21,4 @@ Caso não saiba ou tenha esquecido a senha:
 
 Após preencher os campos acima, clique em `Entrar`
 
-<figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (31).png" alt="" width="563"><figcaption></figcaption></figure>

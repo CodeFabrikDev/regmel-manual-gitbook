@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Confirmar conclusão da obra
 
 Para realizar a confirmação, acesse a tela inicial&#x20;

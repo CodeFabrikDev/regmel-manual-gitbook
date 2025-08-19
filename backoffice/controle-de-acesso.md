@@ -4,7 +4,7 @@
 
 Para visualizar os usuários administrativos cadastrados no backoffice, basta acessar o menu lateral e clicar em `Controle de acesso` e a página com a lista de usuários do backoffice será exibida.
 
-<figure><img src="../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (32).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### Cadastrar novo usuário administrativo
 
@@ -34,7 +34,7 @@ No modal exibido, selecione o tipo de usuário `Visualizador` e informe os campo
 
 Clique em `Adicionar`, o sistema mandará um link de cadastro de senha para o email informado, para que o usuário cadastrado possa visualizar o Backoffice.
 
-<figure><img src="../.gitbook/assets/image (54).png" alt="" width="434"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (54).png" alt="" width="289"><figcaption></figcaption></figure>
 
 ### Editar informações de um usuário
 
@@ -42,7 +42,7 @@ Caso queira atualizar as informações de um usuário, basta clicar no `ícone d
 
 No modal exibido, preencha os dados que deseja alterar e clique em `Editar`
 
-<figure><img src="../.gitbook/assets/image (55).png" alt="" width="443"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (55).png" alt="" width="296"><figcaption></figcaption></figure>
 
 ### Deletar usuário
 
@@ -50,4 +50,4 @@ Caso queira excluir um usuário da lista e remover o acesso do mesmo, basta clic
 
 No modal  de confirmação exibido clique em `Confirmar`
 
-<figure><img src="../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (56).png" alt="" width="189"><figcaption></figcaption></figure>
