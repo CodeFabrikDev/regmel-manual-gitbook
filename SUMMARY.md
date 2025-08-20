@@ -25,5 +25,5 @@
 * [Controle de acesso](backoffice/controle-de-acesso.md)
 * [🟢 Gerenciar agentes promotores](backoffice/gerenciar-agentes-promotores.md)
 * [Gerenciar profissionais](backoffice/gerenciar-profissionais.md)
-* [🟡 Controle de demandas](backoffice/controle-de-demandas.md)
+* [Controle de demandas](backoffice/controle-de-demandas.md)
 * [Solicitações de ajuda](backoffice/solicitacoes-de-ajuda.md)
