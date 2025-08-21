@@ -5,9 +5,9 @@
 <table data-view="cards"><thead><tr><th align="center"></th><th></th></tr></thead><tbody><tr><td align="center">Morador</td><td></td></tr><tr><td align="center">Promotor</td><td></td></tr><tr><td align="center">Backoffice</td><td></td></tr></tbody></table>
 
 {% hint style="info" %}
-O aplicativo Periferia Viva - Regularização e Melhorias é um sistema que intermedia a conexão entre os agentes promotores – que atuam por meio de empresas ou entidades privadas sem fins lucrativos – e famílias atendidas pelo Programa Periferia Viva - Regularização e Melhorias as quais necessitam de serviços de assistência técnica para execução de melhoria habitacional, como reformas e ampliações, bem como de regularização fundiária.&#x20;
+O aplicativo App Melhorias Habitacionais é um sistema que intermedia a conexão entre os agentes promotores – que atuam por meio de empresas ou entidades privadas sem fins lucrativos – e famílias atendidas pelo Programa Periferia Viva - Regularização e Melhorias as quais necessitam de serviços de assistência técnica para execução de melhoria habitacional, como reformas e ampliações, bem como de regularização fundiária.&#x20;
 
-Atuando como uma plataforma para a prospecção mútua, o sistema funciona como intermediário, permitindo que as famílias mantenham contato com os profissionais e vice-versa. Além disso, destaca-se pela simplificação do controle de finalidade dos investimentos públicos e pela promoção da transparência na relação entre profissional e beneficiário ao longo do processo de fornecimento dos serviços de melhoria habitacional.
+O sistema funciona como intermediário, permitindo que as famílias acessem as informações sobre suas obras de melhorias e as empresas responsáveis e vice versa. Além disso, destaca-se pela simplificação do controle de finalidade dos investimentos públicos e pela promoção da transparência na relação entre profissional e beneficiário ao longo do processo de fornecimento dos serviços de melhoria habitacional.
 {% endhint %}
 
 ### Serviços públicos
