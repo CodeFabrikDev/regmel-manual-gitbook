@@ -4,7 +4,7 @@
 O projeto de melhoria é feito de forma externa e entregue presencialmente ao beneficiário.
 {% endhint %}
 
-Para realizar a vistoria, acesse a tela inicial&#x20;
+Para confirmar projeto de melhoria, acesse a tela inicial&#x20;
 
 Clique em `Projetos de Melhoria`
 
