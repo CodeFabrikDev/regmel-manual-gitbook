@@ -1,6 +1,6 @@
 # Cadastrar obra
 
-Para realizar cadastrar uma obra, acesse a tela inicial&#x20;
+Para cadastrar uma obra, acesse a tela inicial&#x20;
 
 Clique em `Obra`
 

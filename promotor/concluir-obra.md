@@ -1,6 +1,6 @@
 # Concluir obra
 
-Para realizar cadastrar uma obra, acesse a tela inicial&#x20;
+Para realizar o relatório de conclusão de uma obra, acesse a tela inicial&#x20;
 
 Clique em `Obra`
 
