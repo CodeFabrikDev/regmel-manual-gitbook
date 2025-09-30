@@ -4,7 +4,7 @@
 
 ## 🏘️ beneficiário
 
-* [🟡 Acessar com GOV.BR](beneficiario/acessar-com-gov.br.md)
+* [Acessar com GOV.BR](beneficiario/acessar-com-gov.br.md)
 * [Confirmar conclusão da obra](beneficiario/confirmar-conclusao-da-obra.md)
 
 ## 🧱 PROMOTOR
@@ -23,7 +23,7 @@
 * [Acessar conta](backoffice/acessar-conta.md)
 * [Recuperar acesso](backoffice/recuperar-acesso.md)
 * [Controle de acesso](backoffice/controle-de-acesso.md)
-* [🟢 Gerenciar agentes promotores](backoffice/gerenciar-agentes-promotores.md)
+* [Gerenciar agentes promotores](backoffice/gerenciar-agentes-promotores.md)
 * [Gerenciar profissionais](backoffice/gerenciar-profissionais.md)
 * [Controle de demandas](backoffice/controle-de-demandas.md)
 * [Solicitações de ajuda](backoffice/solicitacoes-de-ajuda.md)

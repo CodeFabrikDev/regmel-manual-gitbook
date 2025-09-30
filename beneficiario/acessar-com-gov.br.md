@@ -1,4 +1,4 @@
-# 🟡 Acessar com GOV.BR
+# Acessar com GOV.BR
 
 O primeiro passo para utilizar o sistema, é acessar sua conta, para isso, é necessário efetuar o Login utilizando sua conta [gov.br](https://www.gov.br/pt-br)&#x20;
 

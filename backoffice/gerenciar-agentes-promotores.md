@@ -1,4 +1,4 @@
-# 🟢 Gerenciar agentes promotores
+# Gerenciar agentes promotores
 
 ### Acessar lista de agentes promotores cadastrados
 
